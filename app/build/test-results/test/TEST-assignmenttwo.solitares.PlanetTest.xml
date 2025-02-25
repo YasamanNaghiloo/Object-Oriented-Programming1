@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="assignmenttwo.solitares.PlanetTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-04-26T11:18:39" hostname="LAPTOP-R4LPFA81" time="0.008">
+  <properties/>
+  <testcase name="testPlanetConstructor_emptyName()" classname="assignmenttwo.solitares.PlanetTest" time="0.002"/>
+  <testcase name="testPlanetConstructor_validInput()" classname="assignmenttwo.solitares.PlanetTest" time="0.001"/>
+  <testcase name="testPlanetConstructor_nullName()" classname="assignmenttwo.solitares.PlanetTest" time="0.001"/>
+  <testcase name="testPlanetConstructor_radiusTooLarge()" classname="assignmenttwo.solitares.PlanetTest" time="0.001"/>
+  <testcase name="testPlanetConstructor_radiusTooSmall()" classname="assignmenttwo.solitares.PlanetTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

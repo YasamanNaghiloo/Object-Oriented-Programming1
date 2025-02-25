@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="assignmenttwo.refactoredsolitares.MoonTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-04-26T11:18:39" hostname="LAPTOP-R4LPFA81" time="0.011">
+  <properties/>
+  <testcase name="testMoonConstructor_sizeTooLarge()" classname="assignmenttwo.refactoredsolitares.MoonTest" time="0.003"/>
+  <testcase name="testMoonConstructor_sizeTooSmall()" classname="assignmenttwo.refactoredsolitares.MoonTest" time="0.001"/>
+  <testcase name="testMoonConstructor_validInput()" classname="assignmenttwo.refactoredsolitares.MoonTest" time="0.003"/>
+  <testcase name="testMoonConstructor_nullName()" classname="assignmenttwo.refactoredsolitares.MoonTest" time="0.001"/>
+  <testcase name="testMoonConstructor_emptyName()" classname="assignmenttwo.refactoredsolitares.MoonTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

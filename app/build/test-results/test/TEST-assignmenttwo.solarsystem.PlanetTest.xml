@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="assignmenttwo.solarsystem.PlanetTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2024-04-26T11:18:39" hostname="LAPTOP-R4LPFA81" time="0.017">
+  <properties/>
+  <testcase name="testPlanetConstructor_emptyName()" classname="assignmenttwo.solarsystem.PlanetTest" time="0.001"/>
+  <testcase name="testAddMoon_validInput()" classname="assignmenttwo.solarsystem.PlanetTest" time="0.001"/>
+  <testcase name="testGetHeavenlyBodies_populatedList()" classname="assignmenttwo.solarsystem.PlanetTest" time="0.0"/>
+  <testcase name="testAddMoon_radiusTooLarge()" classname="assignmenttwo.solarsystem.PlanetTest" time="0.001"/>
+  <testcase name="testPlanetConstructor_orbitRadiusTooSmall()" classname="assignmenttwo.solarsystem.PlanetTest" time="0.001"/>
+  <testcase name="testPlanetConstructor_nullName()" classname="assignmenttwo.solarsystem.PlanetTest" time="0.001"/>
+  <testcase name="testGetHeavenlyBodies_emptyList()" classname="assignmenttwo.solarsystem.PlanetTest" time="0.0"/>
+  <testcase name="testGetHeavenlyBodies_returnCopies()" classname="assignmenttwo.solarsystem.PlanetTest" time="0.0"/>
+  <testcase name="testPlanetConstructor_radiusTooLarge()" classname="assignmenttwo.solarsystem.PlanetTest" time="0.001"/>
+  <testcase name="testPlanetConstructor_radiusTooSmall()" classname="assignmenttwo.solarsystem.PlanetTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

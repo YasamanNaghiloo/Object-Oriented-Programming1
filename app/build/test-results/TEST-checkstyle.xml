@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite package="org.checkstyle" time="0" tests="12" errors="0" name="checkstyle">
+<testcase time="0" name="assignmenttwo/App.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="assignmenttwo/refactoredsolitares/HeavenlyBody.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="assignmenttwo/refactoredsolitares/Moon.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="assignmenttwo/refactoredsolitares/Planet.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="assignmenttwo/refactoredsolitares/Star.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="assignmenttwo/solarsystem/HeavenlyBody.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="assignmenttwo/solarsystem/Moon.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="assignmenttwo/solarsystem/Planet.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="assignmenttwo/solarsystem/Star.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="assignmenttwo/solitares/Moon.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="assignmenttwo/solitares/Planet.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="assignmenttwo/solitares/Star.java" classname="CheckStyle Issues">
+</testcase></testsuite>

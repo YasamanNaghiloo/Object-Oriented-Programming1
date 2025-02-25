@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.38">
+<file name="D:\Programming\1DV502\Assignments\assignment-2\app\src\main\java\assignmenttwo\App.java">
+</file>
+<file name="D:\Programming\1DV502\Assignments\assignment-2\app\src\main\java\assignmenttwo\refactoredsolitares\HeavenlyBody.java">
+</file>
+<file name="D:\Programming\1DV502\Assignments\assignment-2\app\src\main\java\assignmenttwo\refactoredsolitares\Moon.java">
+</file>
+<file name="D:\Programming\1DV502\Assignments\assignment-2\app\src\main\java\assignmenttwo\refactoredsolitares\Planet.java">
+</file>
+<file name="D:\Programming\1DV502\Assignments\assignment-2\app\src\main\java\assignmenttwo\refactoredsolitares\Star.java">
+</file>
+<file name="D:\Programming\1DV502\Assignments\assignment-2\app\src\main\java\assignmenttwo\solarsystem\HeavenlyBody.java">
+</file>
+<file name="D:\Programming\1DV502\Assignments\assignment-2\app\src\main\java\assignmenttwo\solarsystem\Moon.java">
+</file>
+<file name="D:\Programming\1DV502\Assignments\assignment-2\app\src\main\java\assignmenttwo\solarsystem\Planet.java">
+</file>
+<file name="D:\Programming\1DV502\Assignments\assignment-2\app\src\main\java\assignmenttwo\solarsystem\Star.java">
+</file>
+<file name="D:\Programming\1DV502\Assignments\assignment-2\app\src\main\java\assignmenttwo\solitares\Moon.java">
+</file>
+<file name="D:\Programming\1DV502\Assignments\assignment-2\app\src\main\java\assignmenttwo\solitares\Planet.java">
+</file>
+<file name="D:\Programming\1DV502\Assignments\assignment-2\app\src\main\java\assignmenttwo\solitares\Star.java">
+</file>
+</checkstyle>

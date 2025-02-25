@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="assignmenttwo.solarsystem.StarTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2024-04-26T11:18:39" hostname="LAPTOP-R4LPFA81" time="0.015">
+  <properties/>
+  <testcase name="testStarConstructor_validInput()" classname="assignmenttwo.solarsystem.StarTest" time="0.001"/>
+  <testcase name="testAddPlanet_nullName()" classname="assignmenttwo.solarsystem.StarTest" time="0.001"/>
+  <testcase name="testAddPlanet_validInput()" classname="assignmenttwo.solarsystem.StarTest" time="0.0"/>
+  <testcase name="testStarConstructor_nullName()" classname="assignmenttwo.solarsystem.StarTest" time="0.0"/>
+  <testcase name="testStarConstructor_radiusTooSmall()" classname="assignmenttwo.solarsystem.StarTest" time="0.001"/>
+  <testcase name="testAddPlanet_emptyName()" classname="assignmenttwo.solarsystem.StarTest" time="0.001"/>
+  <testcase name="testGetHeavenlyBodies()" classname="assignmenttwo.solarsystem.StarTest" time="0.001"/>
+  <testcase name="testGetHeavenlyBodies_areCopied()" classname="assignmenttwo.solarsystem.StarTest" time="0.0"/>
+  <testcase name="testStarConstructor_emptyName()" classname="assignmenttwo.solarsystem.StarTest" time="0.001"/>
+  <testcase name="testAddPlanet_radiusTooLarge()" classname="assignmenttwo.solarsystem.StarTest" time="0.001"/>
+  <testcase name="testAddPlanet_radiusTooSmall()" classname="assignmenttwo.solarsystem.StarTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

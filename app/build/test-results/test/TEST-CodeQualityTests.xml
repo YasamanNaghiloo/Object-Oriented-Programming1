@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CodeQualityTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-04-26T11:18:39" hostname="LAPTOP-R4LPFA81" time="0.079">
+  <properties/>
+  <testcase name="codeQuality()" classname="CodeQualityTests" time="0.079"/>
+  <system-out><![CDATA[0 CheckStyle Issues in D:/Programming/1DV502/Assignments/assignment-2/app/src/main/java/assignmenttwo/App.java
+0 CheckStyle Issues in D:/Programming/1DV502/Assignments/assignment-2/app/src/main/java/assignmenttwo/refactoredsolitares/HeavenlyBody.java
+0 CheckStyle Issues in D:/Programming/1DV502/Assignments/assignment-2/app/src/main/java/assignmenttwo/refactoredsolitares/Moon.java
+0 CheckStyle Issues in D:/Programming/1DV502/Assignments/assignment-2/app/src/main/java/assignmenttwo/refactoredsolitares/Planet.java
+0 CheckStyle Issues in D:/Programming/1DV502/Assignments/assignment-2/app/src/main/java/assignmenttwo/refactoredsolitares/Star.java
+0 CheckStyle Issues in D:/Programming/1DV502/Assignments/assignment-2/app/src/main/java/assignmenttwo/solarsystem/HeavenlyBody.java
+0 CheckStyle Issues in D:/Programming/1DV502/Assignments/assignment-2/app/src/main/java/assignmenttwo/solarsystem/Moon.java
+0 CheckStyle Issues in D:/Programming/1DV502/Assignments/assignment-2/app/src/main/java/assignmenttwo/solarsystem/Planet.java
+0 CheckStyle Issues in D:/Programming/1DV502/Assignments/assignment-2/app/src/main/java/assignmenttwo/solarsystem/Star.java
+0 CheckStyle Issues in D:/Programming/1DV502/Assignments/assignment-2/app/src/main/java/assignmenttwo/solitares/Moon.java
+0 CheckStyle Issues in D:/Programming/1DV502/Assignments/assignment-2/app/src/main/java/assignmenttwo/solitares/Planet.java
+0 CheckStyle Issues in D:/Programming/1DV502/Assignments/assignment-2/app/src/main/java/assignmenttwo/solitares/Star.java
+]]></system-out>
+  <system-err><![CDATA[Findbugs xml file not found: .\build\reports\spotbugs\spotbugs.xml
+Consider making code change to initiate regeneration of the xml (will try backup)
+Restored xml from backup: .\build\reports\spotbugs\spotbugs_bak.xml
+]]></system-err>
+</testsuite>
